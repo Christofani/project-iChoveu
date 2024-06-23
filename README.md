@@ -2,7 +2,7 @@
 
 ## Demonstração
 
-<img  src="imgs/Peek 2024-06-22 22-01.gif"/>
+<img  src="src/imgs/Peek 2024-06-22 22-01.gif"/>
 
 ## Stacks utilizadas  
 <div>
