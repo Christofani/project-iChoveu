@@ -23,7 +23,24 @@ CSS: A estilização foi aplicada para melhorar a aparência visual do site, tor
 JavaScript: Utilizei JavaScript para consumir a API de previsão do tempo e exibir os dados de forma dinâmica na página. Aprendi a manipular o DOM para atualizar as informações meteorológicas em tempo real e a tratar os dados recebidos da API.
 
 ### Como testar o projeto:
-Para testar o "iChoveu", basta clonar este repositório em seu ambiente local e abrir o arquivo `index.html` em seu navegador preferido. O site exibirá as previsões meteorológicas com base nos dados da API consumida.
+Para testar o "iChoveu", basta clonar este repositório em seu ambiente local e seguir os passos abaixo de acordo com o sistema operacional:
+
+#### No Linux e Mac:
+1. Abra o terminal.
+2. Navegue até o diretório do projeto clonado.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Após a instalação das dependências, execute o comando `npm run dev`.
+5. Abra o arquivo `index.html` em seu navegador preferido.
+
+#### No Windows:
+1. Abra o Prompt de Comando.
+2. Navegue até o diretório do projeto clonado.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Após a instalação das dependências, execute o comando `npm run dev`.
+5. Abra o arquivo `index.html` em seu navegador preferido.
+
+O site exibirá as previsões meteorológicas com base nos dados da API consumida.
+
 
 ### Agradecimentos:
 Agradeço a todos que se envolveram e compartilharam conhecimento para o desenvolvimento deste projeto. O aprendizado contínuo e a colaboração da comunidade são fundamentais para o crescimento pessoal e profissional de todos os envolvidos. Muito obrigado por fazer parte dessa jornada de aprendizado e crescimento!
